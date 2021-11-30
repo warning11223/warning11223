@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning JS,React.js
+- 👀 I’m interested in IT
 - 📫 How to reach me https://www.linkedin.com/in/denis-khablo/
 
 <!---
