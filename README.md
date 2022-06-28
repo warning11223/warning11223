@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m interested in IT
-- 📫 How to reach me https://www.linkedin.com/in/denis-khablo/
+- 👀 I’m interested in web-development
+- 📫 How to reach me - https://www.linkedin.com/in/denis-khablo/
 
 <!---
 warning11223/warning11223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
