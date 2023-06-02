@@ -32,4 +32,4 @@ with experience in creating SPA using React, Redux, TypeScript. Knowledge in use
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/warning11223/badges/large)
