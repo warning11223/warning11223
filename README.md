@@ -29,3 +29,7 @@ with experience in creating SPA using React, Redux, TypeScript. Knowledge in use
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/denis-khablo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
