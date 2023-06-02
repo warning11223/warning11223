@@ -29,7 +29,7 @@ with experience in creating SPA using React, Redux, TypeScript. Knowledge in use
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/denis-khablo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/
+<img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 ### 💻 Codewars:
 
