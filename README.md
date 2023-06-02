@@ -5,13 +5,12 @@ I'm a frontend developer with experience in creating SPA using React, Redux, Typ
 
 
 * 🖥️  See my portfolio at [netlify.app](http://warning11223.netlify.app/)
-* ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:warning11223@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/w4rn1nq) 
+* ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:warning11223@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-w4rn1nq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/w4rn1nq) 
 
 ### Social networks
 
 <p align="left">
 <a href="https://www.linkedin.com/in/denis-khablo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://t.me/w4rn1nq" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" height="32" width="32" /></a>
 </p>
 
 
@@ -29,4 +28,5 @@ I'm a frontend developer with experience in creating SPA using React, Redux, Typ
 
 ![codewars](https://www.codewars.com/users/warning11223/badges/large)
 
-https://visitor-badge.laobi.icu/badge?page_id=warning11223
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=warning11223)
+
