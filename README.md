@@ -2,7 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 
-I'm a frontend developer with experience in creating SPA using React, Redux, TypeScript. Knowledge in user interface, testing, and debugging processes. I improving my skills in this direction. In my free time, I complete challenges for codewars <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+💻 I'm frontend developer with 1 year experience. My expertise in building web applications with stack:
+Javascript, Typescript, React, Redux. 
+💾 Ready to join your team and start developing projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 
 * 🖥️  See my portfolio at [netlify.app](http://warning11223.netlify.app/)
