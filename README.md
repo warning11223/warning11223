@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I+am+Denis!+👋+Frontend+developer)](https://git.io/typing-svg)
 
+==================================================================================================================================================
+
 I have 1 year experience in web development. My expertise in building web applications with stack:
 Javascript, Typescript, React, Redux.
 Ready to develop interesting projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
