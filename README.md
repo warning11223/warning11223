@@ -1,4 +1,3 @@
-Hi !My name is Denis
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I+am+Denis!+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)+Frontend+developer)](https://git.io/typing-svg)
 =============================================================================================================================
 
