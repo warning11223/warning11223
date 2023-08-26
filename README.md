@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 💻 I'm frontend developer with 1 year experience. My expertise in building web applications with stack:
-Javascript, Typescript, React, Redux. 
+Javascript, Typescript, React, Redux.
 💾 Ready to join your team and start developing projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 
