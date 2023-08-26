@@ -2,7 +2,7 @@
 
 I have 1 year experience in web development. My expertise in building web applications with stack:
 Javascript, Typescript, React, Redux.
-Ready to join your team and start developing projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Ready to develop interesting projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 
 * 🖥️  See my portfolio at [netlify.app](http://warning11223.netlify.app/)
