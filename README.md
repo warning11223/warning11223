@@ -26,7 +26,7 @@ Ready to develop interesting projects <img src="https://media.giphy.com/media/WU
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 
 
-### 💻 Codewars:
+### 💻 Codewars: 
 
 ![codewars](https://www.codewars.com/users/warning11223/badges/large)
 
