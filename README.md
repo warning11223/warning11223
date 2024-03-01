@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I+am+Denis!+👋+Frontend+developer)](https://git.io/typing-svg) 
 
 Ready to develop interesting projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
- 
 
 * ✉️  You can contact me at [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:warning11223@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-w4rn1nq-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/w4rn1nq) 
 
